@@ -1,6 +1,6 @@
 ## New Year Countdown
 
-Landing page that counts down from the current date to the next new year
+This is a landing page that counts down from the current date to the next new year
 
 ## Project Specifications
 
